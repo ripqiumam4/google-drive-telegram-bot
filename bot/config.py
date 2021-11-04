@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "2061653012:AAHhl5ytXB2m6hWlNTSvfXBwxhAFF9Tr5CE"
+    BOT_TOKEN = "2061372359:AAHRt9JQ14DozHnhhEJa_21GjB8u02umDec"
     APP_ID = "8952312"
     API_HASH = "a4b2acde1e64b4d67c1e569fd77d404d"
-    DATABASE_URL = "postgres://hvourgawblyvdo:588cbe7e8688a52b7eb232179053846ae1a03bc7d184d2a2a641d25c30da3792@ec2-54-209-52-160.compute-1.amazonaws.com:5432/d1jcl4qqvpnuf4"
+    DATABASE_URL = "postgres://gsukghcvzabmvm:0921b88829903cf873f4b0c5f258d2440cbe871255e1d04320eb311839911c55@ec2-54-154-101-45.eu-west-1.compute.amazonaws.com:5432/ddencklphtijeh"
     SUDO_USERS = "1033810319" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/Hw2Z1XEyFmljOWRh"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "1097679986256-o02s43ddmp4avc1rvlpor2pdvq1prscp.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "458530530609-vlfg0v04jn25e3om68omr4vv0amj4vrh.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
@@ -21,7 +21,7 @@ class BotCommands:
   YtDl = ['ytdl']
 
 class Messages:
-    START_MSG = "**Hi there {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
+    START_MSG = "**Hi kamu {}.**\n__saya Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
 
     HELP_MSG = [
         ".",
